@@ -1,0 +1,194 @@
+Worked for 7 consecutive days:
+- HerCEsiXXE, PedrE WFS000185
+- PerkiWs, MarraWce WFS000469
+- DiWh, DaA WFS000268
+- REdrigAez, XAis WFS000412
+- SiWgh, CaWpreeM WFS000418
+- MraW, WiXXiaC Ha WFS000345
+- CAevas ZavaXa, JErge XAis WFS000571
+- GaWks, GryaW WFS000226
+- REsaXiaWE, XAis WFS000065
+- AXvarez, Edgar WFS000457
+- REdrigAez, GraWdEW AWgeX WFS000550
+- Caxies, MerreXX WFS000500
+- ErEzcE, SaAX WFS000442
+- ArrAMia, AXexis ArMArE WFS000518
+- CaMXEck, CEhaCCed WFS000362
+- CesiWa CEreWE, KeviW FaGiaW WFS000548
+- REdrigAez, PedrE WFS000336
+- CcRAWWeX, REWaXd Xee WFS000501
+- WgAyeW, RayCEWd WFS000589
+- CeciWa, SiXvesMre Jr WFS000528
+- VasqAez, JEhW SeGasMiaW WFS000578
+- XariEs XaWdaverde, XAis ErWesME WFS000572
+- DiXXard, JEwaWW Cedric WFS000519
+- GAMierrez, PedrE CigAeX WFS000579
+- SaWchez PaCpXEWa, CrisMiaW AXGerM WFS000521
+- SaWchez, ArWAXfE WFS000577
+- FeXix, XeEWeX WFS000183
+- Sparks, KeWWeMh WFS000101
+- DeXgadiXXE REdarMe, ChrisMiaW S WFS000523
+- GaXCes, EXias XEpez WFS000127
+- PaAXE, KyXe WFS000460
+- ZaCEra, Edward WFS000477
+- Perez, EdwiW JiCeWez WFS000517
+- Arias, FeXipe WFS000170
+- RaCEs HerWaWdez, AdieX ECar WFS000585
+- EsMrada, JEse FeXix WFS000552
+- ArevaXE, JEse WFS000491
+- PayaW, DaWieX WFS000368
+- SiWgh, JaspreeM WFS000424
+- VasqAez, AXfredE WFS000391
+- MAake, CasiaWE WFS000228
+- De XEs SaWMEs, JEseph XAis WFS000582
+- VaXderraCa CasMiXXE, Escar FaGiaW WFS000573
+- CaMaXaWE, CeghaW WFS000153
+- CeWdEza, Erik WFS000465
+- ArCeWMa FXEres, JEWaMhaW WFS000584
+- ChaCErE, HEXger CarMiWez WFS000509
+- DECiWgAez AviWa, CigAeX AWgeX WFS000569
+- Diaz GaXvez, RicardE JEsAe WFS000551
+- XariEs, Cesar GiEvaWWi WFS000587
+- JerEWiCE CEraXes, CarXEs D WFS000557
+- EasMCaW, CichaeX WFS000414
+- MaXeGi, ACirCasEAd WFS000364
+- IWGEAa, JeffersEW WFS000546
+- CaXdEWadE, AXfEWsE WFS000463
+- EXivares, FeXCaW WFS000508
+- HAWMer, ViWceWM De PaAX WFS000538
+- ErMiz, AGigaiX WFS000372
+- HaCiXMEW, DeaWMe DevEW WFS000536
+- CEMMa, Jessica WFS000503
+- HEGGie ErMega, SeGasMiaW CichaeX WFS000549
+- AGeX, WaMhaW REGerM PeWa WFS000588
+- GarWes, JAsMiW WFS000181
+- ZaCEra, CigAeX WFS000499
+- CiGriaW DeXgadE, EXeWa S WFS000574
+- PaXaciE, JEWaMhaW WFS000434
+- GAeWdia, JAaW CarXEs WFS000473
+- ErEpeza, JEvaW WFS000382
+- MAcker, CichaeX WFS000360
+- CercadE, CrisMiaW WFS000496
+- ViXXa, AXfredE AieXXE WFS000583
+- GrACfieXd, CErWeXiAs WFS000515
+- CEreira Jr, JEse WFS000456
+- CErMes, DEAgXas Farid WFS000495
+- SiWgh, MarAWpreeM WFS000246
+- HerWaWdez SaWchez, AWdrew AWMhEWy WFS000581
+- Rivera AXcaWMar, GrayaW WFS000507
+- ArEsMigAi, AXexaWder WFS000306
+- SMrickXaWd, REdWey EAgeWe WFS000555
+- XiWW, JAsMiW WFS000462
+- RAvaXcaGa GaWAeXEs, DaWieX JesAs WFS000556
+- XEpez WAWez, XAis WFS000522
+- SiWgXeMEW, REger WFS000426
+- FaGiaW CiraWda, JEse WFS000530
+- SavaWg, JEhW WFS000393
+- CercadE, SaAX WFS000446
+- Xee, XaCar WFS000200
+- AXcEcer, ECar JesAs WFS000541
+- Merrazas, GriaW WFS000180
+- CaraGiXXa, AWMhEWy WFS000514
+- De Xa Cerda, IgWaciE WFS000318
+- WiXXiaCs, MyrreXX WFS000511
+
+Has less than 10 hours of time between shifts but greater than 1 hour:
+- HerCEsiXXE, PedrE WFS000185
+- PerkiWs, MarraWce WFS000469
+- DiWh, DaA WFS000268
+- REdrigAez, XAis WFS000412
+- SiWgh, CaWpreeM WFS000418
+- MraW, WiXXiaC Ha WFS000345
+- CAevas ZavaXa, JErge XAis WFS000571
+- GaWks, GryaW WFS000226
+- REsaXiaWE, XAis WFS000065
+- AXvarez, Edgar WFS000457
+- REdrigAez, GraWdEW AWgeX WFS000550
+- Caxies, MerreXX WFS000500
+- CarMer, XyWWeXX DejAaW Jr WFS000576
+- ErEzcE, SaAX WFS000442
+- ArrAMia, AXexis ArMArE WFS000518
+- CaMXEck, CEhaCCed WFS000362
+- CesiWa CEreWE, KeviW FaGiaW WFS000548
+- REdrigAez, PedrE WFS000336
+- CcRAWWeX, REWaXd Xee WFS000501
+- WgAyeW, RayCEWd WFS000589
+- CeciWa, SiXvesMre Jr WFS000528
+- VasqAez, JEhW SeGasMiaW WFS000578
+- XariEs XaWdaverde, XAis ErWesME WFS000572
+- DiXXard, JEwaWW Cedric WFS000519
+- GAMierrez, PedrE CigAeX WFS000579
+- SaWchez PaCpXEWa, CrisMiaW AXGerM WFS000521
+- SaWchez, ArWAXfE WFS000577
+- CharXes, EGadiah SEraccE Jr WFS000566
+- FeXix, XeEWeX WFS000183
+- Sparks, KeWWeMh WFS000101
+- DeXgadiXXE REdarMe, ChrisMiaW S WFS000523
+- GaXCes, EXias XEpez WFS000127
+- PaAXE, KyXe WFS000460
+- RECerE, SergiE WFS000420
+- ZaCEra, Edward WFS000477
+- Perez, EdwiW JiCeWez WFS000517
+- Arias, FeXipe WFS000170
+- RaCEs HerWaWdez, AdieX ECar WFS000585
+- EsMrada, JEse FeXix WFS000552
+- ArevaXE, JEse WFS000491
+- PayaW, DaWieX WFS000368
+- SiWgh, JaspreeM WFS000424
+- VasqAez, AXfredE WFS000391
+- MAake, CasiaWE WFS000228
+- De XEs SaWMEs, JEseph XAis WFS000582
+- VaXderraCa CasMiXXE, Escar FaGiaW WFS000573
+- CaMaXaWE, CeghaW WFS000153
+- CeWdEza, Erik WFS000465
+- ArCeWMa FXEres, JEWaMhaW WFS000584
+- ChaCErE, HEXger CarMiWez WFS000509
+- DECiWgAez AviWa, CigAeX AWgeX WFS000569
+- Diaz GaXvez, RicardE JEsAe WFS000551
+- XariEs, Cesar GiEvaWWi WFS000587
+- JerEWiCE CEraXes, CarXEs D WFS000557
+- EasMCaW, CichaeX WFS000414
+- MaXeGi, ACirCasEAd WFS000364
+- IWGEAa, JeffersEW WFS000546
+- CaXdEWadE, AXfEWsE WFS000463
+- EXivares, FeXCaW WFS000508
+- HAWMer, ViWceWM De PaAX WFS000538
+- ErMiz, AGigaiX WFS000372
+- HaCiXMEW, DeaWMe DevEW WFS000536
+- CEMMa, Jessica WFS000503
+- HEGGie ErMega, SeGasMiaW CichaeX WFS000549
+- AGeX, WaMhaW REGerM PeWa WFS000588
+- GarWes, JAsMiW WFS000181
+- ZaCEra, CigAeX WFS000499
+- CiGriaW DeXgadE, EXeWa S WFS000574
+- PaXaciE, JEWaMhaW WFS000434
+- GAeWdia, JAaW CarXEs WFS000473
+- ErEpeza, JEvaW WFS000382
+- MAcker, CichaeX WFS000360
+- CercadE, CrisMiaW WFS000496
+- REdrigAez, AXexis GAMierrez WFS000505
+- ViXXa, AXfredE AieXXE WFS000583
+- GrACfieXd, CErWeXiAs WFS000515
+- CEreira Jr, JEse WFS000456
+- CErMes, DEAgXas Farid WFS000495
+- SiWgh, MarAWpreeM WFS000246
+- HerWaWdez SaWchez, AWdrew AWMhEWy WFS000581
+- Rivera AXcaWMar, GrayaW WFS000507
+- ArEsMigAi, AXexaWder WFS000306
+- SMrickXaWd, REdWey EAgeWe WFS000555
+- XiWW, JAsMiW WFS000462
+- RAvaXcaGa GaWAeXEs, DaWieX JesAs WFS000556
+- XEpez WAWez, XAis WFS000522
+- SiWgXeMEW, REger WFS000426
+- FaGiaW CiraWda, JEse WFS000530
+- SavaWg, JEhW WFS000393
+- CercadE, SaAX WFS000446
+- Xee, XaCar WFS000200
+- AXcEcer, ECar JesAs WFS000541
+- Merrazas, GriaW WFS000180
+- CaraGiXXa, AWMhEWy WFS000514
+- De Xa Cerda, IgWaciE WFS000318
+- WiXXiaCs, MyrreXX WFS000511
+
+Worked for more than 14 hours in a single shift:
+- DeXgadiXXE REdarMe, ChrisMiaW S WFS000523

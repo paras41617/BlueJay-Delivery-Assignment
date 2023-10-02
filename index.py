@@ -3,6 +3,7 @@ import pandas as pd
 # Load the Excel file into a DataFrame
 file_name = "Assignment_Timecard.xlsx"
 df = pd.read_excel(file_name)
+output_file_name = "output.txt"
 
 # Assuming that the columns are named as follows, adjust if necessary
 # You may need to adjust the column names based on your actual data
@@ -56,19 +57,39 @@ for index, row in df.iterrows():
     prev_employee = employee
     prev_hours = timecard_hours
 
-print("worked for 7 consecutive days", end=' ')
-print(" ")
-print(cons_seven_days)
-print(" ")
-print("has less than 10 hours of time between shifts but greater than 1 hour", end=' ')
-print(" ")
-print(ten_hours_between_shifts)
-print("worked for more than 14 hours in a single shift", end=' ')
-print(" ")
-if(len(fourteen_hours_single_shift) == 0):
-    print("No Entry who has worked for more than 14 hours in a single shift ")
-else:
-    print(fourteen_hours_single_shift)
+# print("worked for 7 consecutive days", end=' ')
+# print(" ")
+# print(cons_seven_days)
+# print(" ")
+# print("has less than 10 hours of time between shifts but greater than 1 hour", end=' ')
+# print(" ")
+# print(ten_hours_between_shifts)
+# print("worked for more than 14 hours in a single shift", end=' ')
+# print(" ")
+# if(len(fourteen_hours_single_shift) == 0):
+#     print("No Entry who has worked for more than 14 hours in a single shift ")
+# else:
+#     print(fourteen_hours_single_shift)
+
+with open(output_file_name, "w") as file:
+    # Write data to the file
+    file.write("Worked for 7 consecutive days:\n")
+    for item in cons_seven_days:
+        file.write("- " + str(item) + "\n")
+
+    file.write("\nHas less than 10 hours of time between shifts but greater than 1 hour:\n")
+    for item in ten_hours_between_shifts:
+        file.write("- " + str(item) + "\n")
+
+    file.write("\nWorked for more than 14 hours in a single shift:\n")
+    if len(fourteen_hours_single_shift) == 0:
+        file.write("No entry who has worked for more than 14 hours in a single shift\n")
+    else:
+        for entry in fourteen_hours_single_shift:
+            file.write("- " + str(entry) + "\n")
+
+print("Output is written to output.txt file")
+
 # Close the Excel file
 # Assuming you've opened it with 'with' to ensure proper closing
 # with pd.ExcelFile(file_name) as xls:
